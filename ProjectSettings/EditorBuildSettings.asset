@@ -6,15 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_Scenes/14_MorningStar.unity
-    guid: 9fe1c42742e1e6349b54d64ad41afefc
-  - enabled: 1
-    path: Assets/01_Scenes/06_Tank.unity
-    guid: bc6baf2a5ac41014a9eae798f5c98e29
-  - enabled: 1
-    path: Assets/01_Scenes/07_Materials.unity
-    guid: ded4251d54999474fb59facfa854b5a2
-  - enabled: 1
-    path: Assets/01_Scenes/15_PhysicsMaterials.unity
-    guid: db64d9191b0196d44a934cd6b98e5d16
+    path: Assets/01_Scenes/12_PixelDomino.unity
+    guid: c6044de509d80aa48aeb97d0324a08f5
   m_configObjects: {}
